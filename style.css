@@ -1,0 +1,108 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    width: 100vw;
+    height: 150px;
+}
+
+.header h1 {
+    color: aqua;
+    background-color: aliceblue;
+    width: 100vw;
+}
+
+.header a {
+    text-decoration: none;
+    text-align: center;
+    color: red;
+}
+
+.header a {
+    color: whitesmoke
+}
+
+#menu {
+    color: red;
+    margin-right: 5px;
+}
+
+.banner {
+    background-color: rgba(216, 112, 147, 0.473);
+    width: 100vw;
+    height: 600px;
+    padding-top: 40px;
+}
+
+.banner img {
+    width: 500px;
+    height: 500px;
+}
+
+.banner2 {
+    background-color: rgba(216, 112, 147, 0.473);
+    width: 100vw;
+    height: 550px;
+}
+
+.banner2 img {
+    padding-top: 30px;
+    width: 350px;
+    height: 350px;
+}
+
+#center {
+    background-color: rgba(128, 0, 128, 0.541);
+    width: 100vw;
+    height: 50px;
+}
+
+#center h1 {
+    color: red;
+    text-align: center;
+}
+
+.banner3 {
+    background-color: cadetblue;
+    width: 100vw;
+    height: 1100px
+}
+
+.banner3 img {
+    padding-top: 30px;
+    width: 500px;
+    height: 400px;
+}
+
+ h4, p {
+    color: rgba(0, 0, 0, 0.747);
+    text-decoration: none;
+}
+
+form h1 {
+    color: red;
+}
+
+#Contact {
+    background-color: rgba(240, 128, 128, 0.548);
+    width: 100vw;
+    height: 150px;
+}
+
+#btn {
+    background-color: red;
+    color: white;
+}
+
+#foot {
+    color: grey;
+    text-align: center;
+}
